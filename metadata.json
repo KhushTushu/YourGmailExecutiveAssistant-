@@ -1,0 +1,6 @@
+{
+  "name": "Gmail Executive Assistant AI Agent",
+  "description": "An advanced executive assistant AI agent that analyzes, prioritizes, and drafts professional email replies for user review directly inside Gmail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
